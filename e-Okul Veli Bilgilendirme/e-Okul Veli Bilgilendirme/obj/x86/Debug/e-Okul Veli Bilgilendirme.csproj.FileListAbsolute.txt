@@ -1,0 +1,61 @@
+C:\Users\PC\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\bin\Debug\e-Okul Veli Bilgilendirme.exe
+C:\Users\PC\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\bin\Debug\e-Okul Veli Bilgilendirme.pdb
+C:\Users\PC\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e_Okul_Veli_Bilgilendirme.Form1.resources
+C:\Users\PC\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e_Okul_Veli_Bilgilendirme.Properties.Resources.resources
+C:\Users\PC\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PC\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PC\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e-Okul Veli Bilgilendirme.exe
+C:\Users\PC\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e-Okul Veli Bilgilendirme.pdb
+C:\Users\PC\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e_Okul_Veli_Bilgilendirme.Form2.resources
+C:\Users\PC\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\bin\Debug\e-Okul Veli Bilgilendirme.exe.config
+C:\Users\PC\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e_Okul_Veli_Bilgilendirme.Form3.resources
+C:\Users\PC\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e_Okul_Veli_Bilgilendirme.Form4.resources
+C:\Users\PC\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e_Okul_Veli_Bilgilendirme.Form5.resources
+C:\Users\PC\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e_Okul_Veli_Bilgilendirme.Form6.resources
+C:\Users\PC\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e_Okul_Veli_Bilgilendirme.Form7.resources
+C:\Users\PC\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e_Okul_Veli_Bilgilendirme.Form8.resources
+C:\Users\PC\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e_Okul_Veli_Bilgilendirme.Form9.resources
+C:\Users\PC\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e_Okul_Veli_Bilgilendirme.Form10.resources
+C:\Users\Ogrenci\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\bin\Debug\e-Okul Veli Bilgilendirme.exe.config
+C:\Users\Ogrenci\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e-Okul Veli Bilgilendirme.exe
+C:\Users\Ogrenci\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e-Okul Veli Bilgilendirme.pdb
+C:\Users\Ogrenci\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\bin\Debug\e-Okul Veli Bilgilendirme.exe
+C:\Users\Ogrenci\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\bin\Debug\e-Okul Veli Bilgilendirme.pdb
+C:\Users\Ogrenci\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ogrenci\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e_Okul_Veli_Bilgilendirme.Form1.resources
+C:\Users\Ogrenci\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e_Okul_Veli_Bilgilendirme.Form10.resources
+C:\Users\Ogrenci\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e_Okul_Veli_Bilgilendirme.Form2.resources
+C:\Users\Ogrenci\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e_Okul_Veli_Bilgilendirme.Form3.resources
+C:\Users\Ogrenci\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e_Okul_Veli_Bilgilendirme.Form4.resources
+C:\Users\Ogrenci\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e_Okul_Veli_Bilgilendirme.Form5.resources
+C:\Users\Ogrenci\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e_Okul_Veli_Bilgilendirme.Form6.resources
+C:\Users\Ogrenci\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e_Okul_Veli_Bilgilendirme.Form7.resources
+C:\Users\Ogrenci\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e_Okul_Veli_Bilgilendirme.Form8.resources
+C:\Users\Ogrenci\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e_Okul_Veli_Bilgilendirme.Form9.resources
+C:\Users\Ogrenci\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e_Okul_Veli_Bilgilendirme.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ogrenci\Desktop\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\bin\Debug\e-Okul Veli Bilgilendirme.exe.config
+H:\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e-Okul Veli Bilgilendirme.exe
+H:\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e-Okul Veli Bilgilendirme.pdb
+H:\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\bin\Debug\e-Okul Veli Bilgilendirme.exe
+H:\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\bin\Debug\e-Okul Veli Bilgilendirme.pdb
+H:\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e_Okul_Veli_Bilgilendirme.Form1.resources
+H:\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e_Okul_Veli_Bilgilendirme.Form10.resources
+H:\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e_Okul_Veli_Bilgilendirme.Form11.resources
+H:\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e_Okul_Veli_Bilgilendirme.Form2.resources
+H:\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e_Okul_Veli_Bilgilendirme.Form3.resources
+H:\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e_Okul_Veli_Bilgilendirme.Form4.resources
+H:\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e_Okul_Veli_Bilgilendirme.Form5.resources
+H:\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e_Okul_Veli_Bilgilendirme.Form6.resources
+H:\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e_Okul_Veli_Bilgilendirme.Form7.resources
+H:\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e_Okul_Veli_Bilgilendirme.Form8.resources
+H:\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e_Okul_Veli_Bilgilendirme.Form9.resources
+H:\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e_Okul_Veli_Bilgilendirme.Properties.Resources.resources
+H:\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Emirhan\Desktop\Eski PC\16GB\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\bin\Debug\e-Okul Veli Bilgilendirme.exe.config
+C:\Users\Emirhan\Desktop\Eski PC\16GB\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e-Okul Veli Bilgilendirme.exe
+C:\Users\Emirhan\Desktop\Eski PC\16GB\e - Okul Veli Bilgilendirme  Sistemi\e-Okul Veli Bilgilendirme\e-Okul Veli Bilgilendirme\obj\x86\Debug\e-Okul Veli Bilgilendirme.pdb
